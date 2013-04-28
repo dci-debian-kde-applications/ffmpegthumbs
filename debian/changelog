@@ -1,9 +1,9 @@
-ffmpegthumbs (4:4.10.2-2) UNRELEASED; urgency=low
+ffmpegthumbs (4:4.10.2-2) experimental; urgency=low
 
   [ Pino Toscano ]
   * Add the pkg-config build dependency.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 08 Apr 2013 13:06:26 +0200
+ -- Sune Vuorela <sune@debian.org>  Mon, 29 Apr 2013 01:19:15 +0200
 
 ffmpegthumbs (4:4.10.2-1) experimental; urgency=low
 
