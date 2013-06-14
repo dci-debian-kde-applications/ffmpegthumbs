@@ -1,4 +1,4 @@
-ffmpegthumbs (4:4.10.4-1) UNRELEASED; urgency=low
+ffmpegthumbs (4:4.10.4-1) experimental; urgency=low
 
   * New upstream release.
   * Bump debhelper build-dep and compat to 9.
@@ -6,7 +6,7 @@ ffmpegthumbs (4:4.10.4-1) UNRELEASED; urgency=low
   * Update vcs fields.
   * Add myself to uploaders.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Jun 2013 11:37:17 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 11:09:37 +0200
 
 ffmpegthumbs (4:4.10.2-2) experimental; urgency=low
 
