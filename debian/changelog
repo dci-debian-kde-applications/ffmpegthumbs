@@ -1,8 +1,8 @@
-ffmpegthumbs (4:4.13.3-1) UNRELEASED; urgency=medium
+ffmpegthumbs (4:4.13.3-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Jul 2014 12:59:56 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Jul 2014 10:24:39 +0200
 
 ffmpegthumbs (4:4.13.1-1) unstable; urgency=medium
 
