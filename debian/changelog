@@ -1,9 +1,9 @@
-ffmpegthumbs (4:14.12.2-1~) UNRELEASED; urgency=medium
+ffmpegthumbs (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 16 Feb 2015 14:58:24 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 16 Feb 2015 15:12:49 +0100
 
 ffmpegthumbs (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
