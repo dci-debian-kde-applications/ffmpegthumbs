@@ -1,3 +1,9 @@
+ffmpegthumbs (4:15.07.90-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.07.90).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 18:23:34 +0200
+
 ffmpegthumbs (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.
