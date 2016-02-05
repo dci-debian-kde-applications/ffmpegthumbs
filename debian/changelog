@@ -1,6 +1,7 @@
 ffmpegthumbs (4:15.12.0-2~) UNRELEASED; urgency=medium
 
-  * 
+  * Add new patch: ffmpeg2.9_support.patch (Closes: #803813) Thanks to
+    Andreas Cadhalpun
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Feb 2016 10:42:11 +0100
 
