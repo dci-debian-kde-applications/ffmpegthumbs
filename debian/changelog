@@ -1,4 +1,4 @@
-ffmpegthumbs (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+ffmpegthumbs (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]
   * New upstream release
@@ -8,7 +8,7 @@ ffmpegthumbs (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Merge with debian git master
   * Drop the kde4 build-deps
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:28:51 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 10:23:59 +0100
 
 ffmpegthumbs (4:15.08.2-0ubuntu1) wily; urgency=medium
 
