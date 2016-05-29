@@ -1,6 +1,4 @@
-ffmpegthumbs (4:15.12.0-3~~4.gbp799e00) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @799e007ee34d009cc8aec61ebd881524832fc3c6 **
+ffmpegthumbs (4:15.12.0-3~) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Add new patch: ffmpeg2.9_support.patch (Closes: #803813) Thanks to
@@ -13,7 +11,7 @@ ffmpegthumbs (4:15.12.0-3~~4.gbp799e00) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 29 May 2016 14:21:46 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 May 2016 15:40:55 +0200
 
 ffmpegthumbs (4:15.12.0-1) experimental; urgency=medium
 
