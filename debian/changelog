@@ -1,4 +1,4 @@
-ffmpegthumbs (4:15.12.0-3~) unstable; urgency=medium
+ffmpegthumbs (4:15.12.0-2) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Add new patch: ffmpeg2.9_support.patch (Closes: #803813) Thanks to
