@@ -1,3 +1,11 @@
+ffmpegthumbs (4:16.04.2-1~1.gbpa1c451) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a1c4515700db6edb54fd2ff1d6c9a8d282d5538b **
+
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 01:53:16 +0200
+
 ffmpegthumbs (4:15.12.0-2) unstable; urgency=medium
 
   [ Maximiliano Curia ]
