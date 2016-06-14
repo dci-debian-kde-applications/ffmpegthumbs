@@ -1,3 +1,7 @@
+From: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Date: Wed, 15 Jun 2016 01:53:13 +0200
+Subject: upstream_port_to_libavfilter
+
 commit 3978c762072b7bc16b2096819b7cfa2052deaf5e
 Author: Martin T. H. Sandsmark <martin.sandsmark@kde.org>
 Date:   Fri May 27 22:29:11 2016 +0200
@@ -6,9 +10,16 @@ Date:   Fri May 27 22:29:11 2016 +0200
     
     Based on a patch from Andreas Cadhalpun
     <andreas.cadhalpun@googlemail.com>.
+---
+ CMakeLists.txt                     |   2 +-
+ cmake/FindFFmpeg.cmake             |   1 +
+ ffmpegthumbnailer/moviedecoder.cpp | 117 +++++++++++++++++++++++++++++++++----
+ ffmpegthumbnailer/moviedecoder.h   |  18 +++++-
+ tests/CMakeLists.txt               |   2 +-
+ 5 files changed, 124 insertions(+), 16 deletions(-)
 
 diff --git a/CMakeLists.txt b/CMakeLists.txt
-index 48eed64..3c761fa 100644
+index 7a025d4..1fab769 100644
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
 @@ -36,7 +36,7 @@ set( ffmpegthumbs_PART_SRCS
