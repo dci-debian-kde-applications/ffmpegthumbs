@@ -1,10 +1,12 @@
-ffmpegthumbs (4:16.08.0-1~1.gbp5bc04d) UNRELEASED; urgency=medium
+ffmpegthumbs (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @5bc04d31e8b236dc71bf14eb94f9f2dcaafa4643 **
-
+  [ Automatic packaging ]
   * Refresh patches
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 19:53:22 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.0)
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:04:59 +0200
 
 ffmpegthumbs (4:16.04.2-1) unstable; urgency=medium
 
