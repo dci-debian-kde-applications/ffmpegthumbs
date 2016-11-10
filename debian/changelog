@@ -1,10 +1,11 @@
-ffmpegthumbs (4:16.08.0-2~1.gbpfca30b) UNRELEASED; urgency=medium
+ffmpegthumbs (4:16.08.3-1~1.gbp3c92fd) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @fca30b3ccec1c16246de6196b2cd9f9a6890d14a **
+  ** SNAPSHOT build @3c92fd206ba6803c97405972023290c149bcc37a **
 
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 17 Oct 2016 23:53:32 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:53:25 +0100
 
 ffmpegthumbs (4:16.08.0-1) unstable; urgency=medium
 
