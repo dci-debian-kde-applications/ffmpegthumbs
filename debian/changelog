@@ -1,11 +1,12 @@
-ffmpegthumbs (4:16.08.3-1~1.gbp3c92fd) UNRELEASED; urgency=medium
+ffmpegthumbs (4:16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @3c92fd206ba6803c97405972023290c149bcc37a **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:53:25 +0100
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.3)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 20:53:52 +0100
 
 ffmpegthumbs (4:16.08.0-1) unstable; urgency=medium
 
