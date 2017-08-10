@@ -25,6 +25,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/ffmpegthumbs.git
 Package: ffmpegthumbs
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: video thumbnail generator using ffmpeg
  FFMpegThumbs is a video thumbnail generator for KDE file managers
  like Dolphin and Konqueror.  It enables them to show preview images
