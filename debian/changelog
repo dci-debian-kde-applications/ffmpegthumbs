@@ -1,4 +1,4 @@
-ffmpegthumbs (4:17.08.3-0r1) UNRELEASED; urgency=medium
+ffmpegthumbs (4:17.08.3-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.0)
@@ -12,7 +12,7 @@ ffmpegthumbs (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 04 Sep 2017 16:43:39 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 26 Nov 2017 12:17:13 +0100
 
 ffmpegthumbs (4:17.08.0-0neon) xenial; urgency=medium
 
