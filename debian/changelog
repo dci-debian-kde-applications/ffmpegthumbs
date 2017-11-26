@@ -1,10 +1,14 @@
-ffmpegthumbs (4:17.08.0-1~) UNRELEASED; urgency=medium
+ffmpegthumbs (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
+  [ Pino Toscano ]
   * New upstream release (17.08.0)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 04 Sep 2017 16:43:39 +0200
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 04 Sep 2017 16:43:39 +0200
 
 ffmpegthumbs (4:17.08.0-0neon) xenial; urgency=medium
 
